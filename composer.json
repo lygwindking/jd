@@ -1,0 +1,25 @@
+{
+    "name": "jd/sdk",
+    "description": "JD SDK package for thinkphp5",
+    "homepage": "https://github.com/5ini99/think-auth",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "Kevin",
+            "email": "1094622714@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/5ini99/think-auth/issues"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jd\\sdk\\": "src/"
+        }
+    }
+}
